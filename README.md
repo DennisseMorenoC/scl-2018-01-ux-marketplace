@@ -167,7 +167,7 @@ Y teniendo estos puntos a considerar fue que se modificó por última vez el pro
 [Prototipo Marvel](https://marvelapp.com/74f3f36)
 
 
-Todo nuestro proceso además lo puedes leer en nuestro post de Medium en el siguiente link,
+**Todo nuestro proceso además lo puedes leer en nuestro post de Medium en el siguiente link,**
 [Posteo Medium](https://medium.com/@deni.moreno11/marketplace-825f2e7465bc)
 
 

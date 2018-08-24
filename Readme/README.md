@@ -1,315 +1,175 @@
-# Plataforma de ventas en línea
+# **Plataforma de ventas en línea**
 
-## Preámbulo
+SPara éste proyecto se nos encomendó la misión de asesorar a pequeñas y medianas empresas fabricantes o productoras de diversos artículos para crear un e-commerce desde dónde los consumidores puedan adquirir sus productos y así mejorar sus ventas y por ende, sus ingresos mensuales.
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+## Objetivos del Proyecto
+Asesorar a uno de los emprendimiento de la Asociación Nacional de Pequeños Comerciantes (ANPC), creando un portal en la que los consumidores puedan comprar sus productos sin intermediarios.
 
-## Introducción
+## Investigación
 
-### “Nuevo portal de e-commerce”
+Cuando la **ANPC**, se adjudica los fondos de un proyecto CORFO al que habían postulado con anterioridad, que se nos encarga la tarea de poder crear una plataforma virtual para potenciar uno de sus emprendimientos. En éste caso, Joyerías Silvestre, una tienda de joyería de plata y piedras minerales hechas a pedido según los gustos e indicaciones de las personas que realizan un pedido. 
+Es con éste afán de potenciar el negocio, que nosotros con el fín de ayudar entender sus problemáticas y oportunidades para la creación del portal, que realizamos diversas actividades que iremos detallando paso por paso. Siendo lo primero que hicimos fue realizar las entrevistas con los Stakeholders y los potenciales usuarios.
+Hablamos con uno de los miembros de la ANCP (Asociación Nacional de Pequeños Comerciantes) y nos comentó que el principal objetivo el proyecto es ayudar a potenciar diversos emprendimientos y que uno de ellos es la tienda de joyas, **Joyerías Silvestre**. Siendo su idea principal para lograr su cometido el crear una plataforma virtual para la venta de sus productos y así generales mayores ingresos mensuales. Puedes escuchar la entrevista completa, [Entrevista ANCP](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a: 
+Por otro lado conversamos con la dueña del emprendimiento **Joyerías Silvestre**, Jocelyn, quien nos explicó cómo ella ve su negocio, que es lo que espera de él, cómo funciona en su dia a dia y principalmente que es lo que ella hace o se dedica en la fabricación de éstas joyas. Puedes escuchar la entrevista completa,[Entrevista Joyerías Silvestre](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
-- [Mala Madre Store](https://www.instagram.com/malamadrestore/)
-- [Hair Fashion Color](https://www.instagram.com/hairfashioncolors/) 
-- [Joyería Silvestre](https://www.instagram.com/joyeriasilvestre/)
-- [Patú](https://www.instagram.com/patuchile/)
-- [Groupie Merch](https://www.instagram.com/groupie_merch/)
-- [Poly Maker](https://www.instagram.com/poly_maker/)
-- [Fairy Cake](https://www.facebook.com/FairyCakex/)
+Además realizamos cinco entrevistas a **usuarios (mujeres)** que compran productos online tanto en redes sociales como en páginas convencionales. Es aquí donde notamos un patrón importante, que fue mencionado en todas las entrevistas, y es que antes de realizar una compra online, en lo primero que se fijan los clientes son en los comentarios que pueda tener la tienda, tanto positivos como negativos. Ya que al tener mayoritariamente comentarios positivos les genera confianza y seguridad al momento de efectuar una compra y posterior pago del producto. Ésto se da como consecuencia de que por ser tiendas que viven en Instagram o Facebook, la mayoría de ellas carece de una página web profesional o establecida que le de respaldo. Puedes escuchar las entrevistas completas en el siguiente link, [Entrevistas Usuarios](https://drive.google.com/open?id=1apb7YepD2Bf3nuanAtvj_2-3S-4RB0-v)
 
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+Analizando Joyerías Silvestre vimos que su emprendimiento solo se encuentra en redes sociales como Facebook e Instagram, que sus joyas son personalizadas, a pedido y de calidad. Y que posee fotografías profesionales, cuidadas, escenificadas; que tiene un logo característico y una paleta cromática definida. Por medio de sus publicaciones además notamos que la red social que posee una actividad constante es Instagram, en la cual s número de seguidores y seguidos es correlativa, indicando que hasta ahora ésa ha sido su estrategia de difusión.
 
-## Objetivos de aprendizaje
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+  <p align="center">
+  <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png"></p>
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
 
-## Tópicos a cubrir
+  
+Una oportunidad de mejora que encontramos es que, cuando sus seguidores (que son en su mayoría mujeres) comentan sus publicaciones, lo hacen siempre para preguntar por precios, por formas de entregas o por medios de pago y la mayoría de estos no recibe respuesta. 
+Es en base a éste descubrimiento que quisimos ahondar más allá y hacer un pequeño experimento. Es por ésto que actuamos como cliente incógnito y preguntamos por mensaje privado en su Instagram, sobre el precio de un anillo. La respuesta la recibimos dos días después.
+Un segundo punto de mejora que observamos es que sus publicaciones si bien son seguidas y de buena calidad fotográfica, éstas carecen de variedad cromática, en la toma de planos o en los escenarios.
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+Además como parte de la investigación realizamos un [Benchmark](https://drive.google.com/open?id=1U3iOYkTz6Bng5XSFLW0hUnF8k5YaA4vD66g9Mqu6YAk)(que puedes pinchar para ver) y miramos la competencia directa de Joyerías Silvestre, los que se encuentran con una base de más seguidores en instagram o con más experiencia. Y gracias a ésto pudimos abrir más nuestra mente en cuanto a sus puntos de mejora, y cómo su emprendimiento podría llegar a difundirse aún más. Ya que descubrimos que los negocios de instagram que poseen más seguidores en ésta red social, tienen publicidad que es de Instagram y muchas poseen una página web establecida, poseen embajadoras, que modelan y publicitan sus productos en su Instagram personal. Logrando con eso atrae más público y seguidores, ya que, las personas que siguen a estas embajadoras, sienten cercanía con la marca y compran más, solo por el hecho de quien las usa.
 
-## Consideraciones generales
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
+## Oportunidades de mejora identificados en la investigación (stakeholders y usuarios)
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+Luego de nuestra investigación y realizando los insight principales de las entrevistas y estudios, pudimos organizar mejor las ideas, de oportunidades de mejora y necesidades de cada uno de los actores del proyecto.
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+**Joyerías Silvestre** 
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+* Lograr que se pueda obtener un estimado de cuánto gana semanalmente, ya que trabaja a pedido realizando, y creando ella misma pulseras, anillos, collares.
+* Su empleo de fotógrafa freelance, la ayuda con su emprendimiento por lo que se podría aprovechar más a la hora de generar ventas.
+* Su emprendimiento ya se encuentra en redes sociales como Facebook e Instagram, por lo que será menos traumático el agregarle una nueva plataforma online.
+* Encontrar una estrategia de marketing y placement adecuada para su emprendimiento y que le consiga más seguidores de los que ya tiene.
+* Agregar diferentes tipos de fotografías para sumarlas a las que ya realiza.
+* El sistema de comunicación de Jocelyn (dueña del emprendimiento)es un importante tema de oportunidad de mejora, ya que, a veces le pasa que la misma persona se comunica por medio de Facebook e Instagram, y cree que son dos personas diferentes, por lo tanto, asimila que son dos ventas realizadas, cuando en el fondo es una. Además se debería mejorar el tiempo y forma de respuesta a los clientes.
+* No posee stock de productos, solo los hace por encargo.
+* Posee un sistema de pago, que es por transferencia bancaria. Cuando la entrega es presencial, pide el 50% del total al momento de realizar el pedido y el otro 50% al momento de la entrega de éste. Y la entrega se coordina con la persona en un metro. Y si la persona es de regiones, se debe cancelar el monto total del producto antes de que sea enviado, el cuál se realiza solo por Chilexpress. Su sistema de pago y envío puede y debería mejorarse para que no tenga que estar mandando los datos personales de su bancoa cada persona que lo solicita por mensaje privado. 
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
 
-## Parte Obligatoria
+**ANPC (Asociación Nacional de Pequeños Comerciantes)**
 
-### 1) General
+* Joyerías Silvestre no tiene intermediarios. Pero si al ser un pequeño emprendimiento, no posee altas ventas y una página web profesional para vender sus productos.
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza una carpeta en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
 
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
+**Usuarios**
 
-### 2) Entendimiento del problema
+En las entrevistas un **patrón** importante que nos señalaron y a considerar es la valoración, es decir,
 
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
+* Los comentarios generados por las personas. Si son demasiados comentarios negativos no compran en esa tienda, porque les genera desconfianza e incredulidad, por el contrario si hay muchos comentarios positivos, les genera confianza y desean comprar ahí.
+*  Demasiada demora en el tiempo de respuesta a sus preguntas, eso les genera desconfianza, falta de profesionalismo y atención.
+* Demasiada demora en el tiempo de respuesta a sus preguntas, eso les genera desconfianza, falta de profesionalismo y atención hacia ellos.
+* No ven los precios de las joyas y no saben un aproximado, y eso les genera confusión y desgaste, al estar preguntando cada cosa en los comentarios y/o por mensaje privado, ya sea instagram o whatsapp.
 
-### 3) Planteamiento y validación de la solución
 
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+## Público Objetivo
+EEl público objetivo que compra en Joyerías Silvestre ronda la edad de 20 a 35 años. Son personas mayoritariamente de sexo femenino, de un nivel socioeconómico medio, y que viven en comunas tales como, Providencia o Santiago Centro. Ésto en base a que el precio mínimo de la creación de una joya parte en $35.000. Por lo que son mujeres trabajadoras, que disfrutan del aire libre, realizan caminatas, trekking, yoga, les encantan los animales, la naturaleza y estar en contacto con ella. Son mujeres preocupadas por su apariencia, por como se ven y cómo las ven los otros, siendo parte fundamental de ésto la compra accesorios llamativos y únicos, para sentirse femeninas y empoderadas. Es por ésto que buscan siempre accesorios originales y diferenciadores del común de la  gente, siendo ésta búsqueda realizada mayoritariamente en tiendas online, por su falta de tiempo y ocasionalmente de manera presencial cuando su agenda se los permite. Éste tipo de mujeres son a su vez el público objetivo al que aspira Joyerías Silvestre y su dueña Jocelyn, la que tiene como inspiración de marca la tierra, la naturaleza muerta, los animales y las piedras naturales, además de diseños únicos, llamativos, creativos y personalizados. 
+ 
 
-## Implementación
+**Hábitos de Compra**: Las personas buscan tiendas en Instagram, Facebook e internet, dentro de esas búsquedas podemos encontrar la de accesorios, originales de calidad, con diseños únicos y creativos, para comprar online. Prefieren hacerlo online y no en tiendas, ya que no tienen el tiempo y prefieren no andar vitrineando, sino ir directo a negocios o emprendimientos especializados en el artículo específico que andan buscando, además de querer un diseño único y hecho a su medida, ya que además a veces es difícil encontrar medidas especiales en el comercio normal.
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
+De acuerdo a esta investigación definimos a 3 **User Persona**.
+La primera es Carolina, diseñadora, que le encantan los productos originales y la joyería hecho a mano, le gustan los accesorios con detalles que tengan que ver con la naturaleza. La segunda es Pablo, un hombre jóven profesor de profesión que se preocupa de la cultura, le gusta la historia y la lectura, tiene una relación estable y busca regalos para su pareja y con el poco tiempo que tiene para hacerlo prefiere realizar compras por internet, dónde busca productos de calidad, y que idealmente sean únicos y personalizados para quedar bien con su pareja. Y por último nos encontramos con la tercera persona, una mujer jóven, con gusto por la moda, las joyas y los productos exclusivos, pero le hes dificil encontrarlas en el comercio tradicional, puesto que no tiene las medidas consideradas estándares dentro del comercio tradicional, es por ésto que busca por redes sociales productos hechos a medida para poder estar segura de que puede tener las cosas que le gustan de un negocio.
 
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona1.png">
+</p>
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%202.png">
+</p>
 
-## Entrega
+Como complemento a esto realizamos un [Customer Journey Map](), para poder ver los procesos y expectativas de compra de nuestros usuarios, plasmando sus sentimientos y sensaciones por las cuales pasan al momento de realizar un pedido y pago en la joyería. Analizamos cómo podríamos mejorar sus puntos de dolor de mayor significancia, y viendo las oportunidades de mejora en cada una de ellas.
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
+</p>
 
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+## Definición de la solución/producto 
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+Luego de escuchar, analizar e investigar a los stakeholders y usuarios del proyecto, llegamos a la conclusión de que, por parte de la asociación, necesitan o buscan que Joyerias Silvestre llegue a ser un emprendimiento consolidado, con mayor alcance de usuarios y que en base a eso pueda incrementar sus ventas. A esto se llegaría por medio de la venta de productos a través de una plataforma virtual o  e-commerce, ya que al usar solo redes sociales de plataforma segrega a un grupo de personas que compra por internet solo en páginas consideradas tradicionales. Para lograr este objetivo se implementaría publicidad en su Instagram, para captar más público dentro del segmento que ocupa ésta plataforma, también se aconsejaría cambiar los escenarios y planos en las fotos, para poderle ocasionalmente variación y aire fresco a la página y quizá modelos o embajadoras que luzcan la marca. Una técnica que se utiliza en para obtener más seguidores por instagram es enviar productos a modo de regalos a personas conocida en redes sociales, con la condición de que si le agrada el diseño y lo utiliza ésta lo publicita en su Instagram personal.
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+Los aspectos que más se destacan del emprendimiento son su claridad de marca, visión, concepto y diseño que son armónicos y mantienen relación entre ellos. Por lo que sus oportunidades de mejoras se encuentran en tema de aumento de ventas, mejorar su sistema de pedido y, mostrar claramente sus métodos de envió y pago. Y teniendo una página web se podría unificar y mejorar:
+* Su sistema de comunicación
+* Su sistema de pedidos
+* La información de sus métodos de envío y pago
 
-## Otras consideraciones
+Teniendo como consecuencia a la mejora a estos temas el generar más ventas y por ende tener más dinero y así lograr dedicarse al 100% a su emprendimiento y no tener que seguir realizando trabajos secundarios de freelance.
+Uno de los puntos importantes a considerar dentro de nuestra propuesta es que al realizar joyas personalizadas, a pedido y personalizadas, en ésta página no existiría una sección o apartado de carrito de compras, que es el típico recurso para cuando las personas realizan compras por internet, ésto considerando que no lo amerita, puesto que no tiene un stock de productos como tal, además de en un principio tampoco tener el dinero para poder llegar a tener dicho stock, o incluso el tiempo para ejecutarlo, considerando que debe hacer trabajos secundarios de momento para complementar ingresos.
+Los puntos a continuación mencionados son los de mayor relevancia a mejorar de acuerdo a los problemas presentados anteriormente. Dichos puntos son en los que nos vamos a enfocar para mejorar, y así potenciar el negocio, sus productos y lograr posicionar en el mercado la marca **Joyerías Silvestre**.
 
-### 1) Planeamiento y presupuesto
+|Problema|Solución|
+|:----|:---|
+|Solo se encuentra en Facebook e Instagram| Se implementaría una página web para poder llegar a mayor cantidad de público, como la que no posee esas redes sociales.
+|Necesidad de generar más ventas|Al tener una página web con hosting y dominio propio, se implementa una estrategia de marketing y SEO que la ayude con dichas ventas.
+|Tiene muchas plataformas de comunicación|Se implementará un formulario de contacto, para resolver dudas específicas. 
+|No tiene un sistema o conducto formal de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones de una forma clara, ordenada y estandarizada.
+|No se encuentra de manera visible información o detalles de sus productos |Se realizaría un portafolio virtual con los trabajos que le han ido encargando, en donde se verían fotografías de los estilos de joyas y piedras que crea, con información relevante y de fabricación.
+||
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
 
-### 2) Definición del producto
+**Estrategia de Marketing y posicionamiento web**
 
-Al definir el producto recuerda pensar en:
+Cuando pasemos a tener creada la página web final primeramente se deberán implementar estrategias de marketing y publicidad que podemos encontrar de forma gratuita. Logrando que los nuevos usuarios que quieran encontrar ésta página lo puedan realizar a través de una búsqueda orgánica en internet, a través del buscador más usado en el mundo como es Google. A su vez, al momento de que las personas puedan llegar a nuestra página y encargar sus pedidos se usaría **SEO**, el cual a través del planificador de **Keywords (palabras clave)** de Google, podamos ver cuales son las palabra claves que utilizan las personas al momento de buscar joyas, joyerías a pedido o joyas personalizadas. 
+De acuerdo a los resultados de éste estudio, se podrían implementar esas palabras o los resultados que arroje a través de toda su página web creada. Además se toma en consideración que al  tener una página web profesional se puede insertar un plug in de SEO, para así mejorar las búsquedas. Esto pasando a ser de suma importancia para rankear su web, y se realiza estableciendo links internos a través de la página, y logrando que el motor de búsqueda pueda indexar el contenido de una manera más óptima, además de servir como ayuda para la navegación de los usuarios. 
+Algo que es de suma importancia para rankear su web, es estableciendo links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda indexar mejor el contenido, y sirve como ayuda para la navegación del usuario.
+Además se enlazara  la herramienta de **Google Analytics** que es gratuita. Puesto que pasa a ser una herramienta indispensable, para ayudar a ajustar y definir las estrategias a seguir, al poder ver y tener data del comportamiento de los visitantes del sitio. Pudiéndose visualizar por ejemplo, cuánto tiempo pasan las personas en la página, cuántas de ellas terminan de realizar un pedido o presupuesto,  los problemas que se presentan y el por qué de ellos.
+Al tener claro estos puntos, se deberá trabajar en una propuesta de valor, que defina el elemento diferenciador que entrega **Joyerías Silvestre**, y que por ende no tienen los otros comercios.
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+Teniendo esto en mente realizamos dos procesos,
 
-### 3) Prototipo de alta fidelidad
+* Un **Site Map**, para con éste poder ver las páginas principales del sitio web y que estas sean accesibles tanto para los buscadores como los usuarios.
 
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.png">
+</p>
 
-## Hacker edition
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
+* Un **flujo de usuario**, para poder conocer el viaje o navegación que estos realizan en la página al momento de generar un pedido.
 
-## Evaluación
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Blank%20Diagram.png">
+</p>
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
 
-### UX Design
 
-|Habilidad|Nivel Esperado|
-|:---|:---|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
+Y teniendo en mente los procesos realizados anteriormente pasamos a la construcción del prototipo de baja fidelidad
 
-### Habilidades blandas
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1193.jpg">
+</p>
 
-|Habilidad|Nivel Esperado|
-|:---|:---|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1192.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1191.jpg">
+</p>
+
+Siendo éste prototipo testeado con 5 usuarios, los feedback que sacamos fueron que:
+* Las personas pensaban que era una página web convencional, con stock de joyas pre diseñadas.
+* Y por ende creían que debía haber un carrito de compras, y no entendían el porqué no lo encontraban dentro de la interfaz.
+* La palabra portafolio no les hacía sentido, les parecía extraña.
+* Al presionar en una joya no veían el detalle de ésta como esperaban.
+* Y que al momento de realizar el pedido, no había un aviso de confirmación de pedido realizado con éxito.
+
+Todos estos procesos realizados, como el flujo de usuario o sitemap fueron cambiando y mutando de acuerdo a las iteraciones realizadas por los testing a los usuarios.
+Y además con la información recopilada mejoramos el producto y pasamos a realizar una versión del prototipo en alta definición, la que a su vez también fue testeada en usuarios y logrando obtener nuevos detalles de su estructura y función, como los siguientes:
+* Los tamaños de tipografías ocupados eran demasiado pequeños para que todas las personas pudieran utilizarlo.
+* El color del icono de menú se perdía con el color de fondo del navbar.
+* Sigue sin estar claro el hecho de que es una plataforma de joyas a pedido y no una de compra de productos ya creados.
+
+
+Y teniendo estos puntos a considerar fue que se modificó por última vez el prototipo de alta fidelidad para plasmar los nuevos descubrimientos.
+
+[Prototipo Marvel](https://marvelapp.com/74f3f36)
+
+
+**Todo nuestro proceso además lo puedes leer en nuestro post de Medium en el siguiente link,**
+[Posteo Medium](https://medium.com/@deni.moreno11/marketplace-825f2e7465bc)
+
+
+
+
