@@ -1,6 +1,6 @@
 # **Plataforma de ventas en línea**
 
-SPara éste proyecto se nos encomendó la misión de asesorar a pequeñas y medianas empresas fabricantes o productoras de diversos artículos para crear un e-commerce desde dónde los consumidores puedan adquirir sus productos y así mejorar sus ventas y por ende, sus ingresos mensuales.
+Para éste proyecto se nos encomendó la misión de asesorar a pequeñas y medianas empresas fabricantes o productoras de diversos artículos para crear un e-commerce desde dónde los consumidores puedan adquirir sus productos y así mejorar sus ventas y por ende, sus ingresos mensuales.
 
 ## Objetivos del Proyecto
 Asesorar a uno de los emprendimiento de la Asociación Nacional de Pequeños Comerciantes (ANPC), creando un portal en la que los consumidores puedan comprar sus productos sin intermediarios.
@@ -9,7 +9,7 @@ Asesorar a uno de los emprendimiento de la Asociación Nacional de Pequeños Com
 
 Cuando la **ANPC**, se adjudica los fondos de un proyecto CORFO al que habían postulado con anterioridad, que se nos encarga la tarea de poder crear una plataforma virtual para potenciar uno de sus emprendimientos. En éste caso, Joyerías Silvestre, una tienda de joyería de plata y piedras minerales hechas a pedido según los gustos e indicaciones de las personas que realizan un pedido. 
 Es con éste afán de potenciar el negocio, que nosotros con el fín de ayudar entender sus problemáticas y oportunidades para la creación del portal, que realizamos diversas actividades que iremos detallando paso por paso. Siendo lo primero que hicimos fue realizar las entrevistas con los Stakeholders y los potenciales usuarios.
-Hablamos con uno de los miembros de la ANCP (Asociación Nacional de Pequeños Comerciantes) y nos comentó que el principal objetivo el proyecto es ayudar a potenciar diversos emprendimientos y que uno de ellos es la tienda de joyas, **Joyerías Silvestre**. Siendo su idea principal para lograr su cometido el crear una plataforma virtual para la venta de sus productos y así generales mayores ingresos mensuales. Puedes escuchar la entrevista completa, [Entrevista ANCP](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
+Hablamos con uno de los miembros de la ANCP (Asociación Nacional de Pequeños Comerciantes) y nos comentó que el principal objetivo del proyecto es ayudar a potenciar diversos emprendimientos y que uno de ellos es la tienda de joyas, **Joyerías Silvestre**. Siendo su idea principal para lograr su cometido el crear una plataforma virtual para la venta de sus productos y así generales mayores ingresos mensuales. Puedes escuchar la entrevista completa, [Entrevista ANCP](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
 Por otro lado conversamos con la dueña del emprendimiento **Joyerías Silvestre**, Jocelyn, quien nos explicó cómo ella ve su negocio, que es lo que espera de él, cómo funciona en su dia a dia y principalmente que es lo que ella hace o se dedica en la fabricación de éstas joyas. Puedes escuchar la entrevista completa,[Entrevista Joyerías Silvestre](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
@@ -59,12 +59,11 @@ En las entrevistas un **patrón** importante que nos señalaron y a considerar e
 
 * Los comentarios generados por las personas. Si son demasiados comentarios negativos no compran en esa tienda, porque les genera desconfianza e incredulidad, por el contrario si hay muchos comentarios positivos, les genera confianza y desean comprar ahí.
 *  Demasiada demora en el tiempo de respuesta a sus preguntas, eso les genera desconfianza, falta de profesionalismo y atención.
-* Demasiada demora en el tiempo de respuesta a sus preguntas, eso les genera desconfianza, falta de profesionalismo y atención hacia ellos.
 * No ven los precios de las joyas y no saben un aproximado, y eso les genera confusión y desgaste, al estar preguntando cada cosa en los comentarios y/o por mensaje privado, ya sea instagram o whatsapp.
 
 
 ## Público Objetivo
-EEl público objetivo que compra en Joyerías Silvestre ronda la edad de 20 a 35 años. Son personas mayoritariamente de sexo femenino, de un nivel socioeconómico medio, y que viven en comunas tales como, Providencia o Santiago Centro. Ésto en base a que el precio mínimo de la creación de una joya parte en $35.000. Por lo que son mujeres trabajadoras, que disfrutan del aire libre, realizan caminatas, trekking, yoga, les encantan los animales, la naturaleza y estar en contacto con ella. Son mujeres preocupadas por su apariencia, por como se ven y cómo las ven los otros, siendo parte fundamental de ésto la compra accesorios llamativos y únicos, para sentirse femeninas y empoderadas. Es por ésto que buscan siempre accesorios originales y diferenciadores del común de la  gente, siendo ésta búsqueda realizada mayoritariamente en tiendas online, por su falta de tiempo y ocasionalmente de manera presencial cuando su agenda se los permite. Éste tipo de mujeres son a su vez el público objetivo al que aspira Joyerías Silvestre y su dueña Jocelyn, la que tiene como inspiración de marca la tierra, la naturaleza muerta, los animales y las piedras naturales, además de diseños únicos, llamativos, creativos y personalizados. 
+El público objetivo que compra en Joyerías Silvestre ronda la edad de 20 a 35 años. Son personas mayoritariamente de sexo femenino, de un nivel socioeconómico medio, y que viven en comunas tales como, Providencia o Santiago Centro. Ésto en base a que el precio mínimo de la creación de una joya parte en $35.000. Por lo que son mujeres trabajadoras, que disfrutan del aire libre, realizan caminatas, trekking, yoga, les encantan los animales, la naturaleza y estar en contacto con ella. Son mujeres preocupadas por su apariencia, por como se ven y cómo las ven los otros, siendo parte fundamental de ésto la compra accesorios llamativos y únicos, para sentirse femeninas y empoderadas. Es por ésto que buscan siempre accesorios originales y diferenciadores del común de la  gente, siendo ésta búsqueda realizada mayoritariamente en tiendas online, por su falta de tiempo y ocasionalmente de manera presencial cuando su agenda se los permite. Éste tipo de mujeres son a su vez el público objetivo al que aspira Joyerías Silvestre y su dueña Jocelyn, la que tiene como inspiración de marca la tierra, la naturaleza muerta, los animales y las piedras naturales, además de diseños únicos, llamativos, creativos y personalizados. 
  
 
 **Hábitos de Compra**: Las personas buscan tiendas en Instagram, Facebook e internet, dentro de esas búsquedas podemos encontrar la de accesorios, originales de calidad, con diseños únicos y creativos, para comprar online. Prefieren hacerlo online y no en tiendas, ya que no tienen el tiempo y prefieren no andar vitrineando, sino ir directo a negocios o emprendimientos especializados en el artículo específico que andan buscando, además de querer un diseño único y hecho a su medida, ya que además a veces es difícil encontrar medidas especiales en el comercio normal.
@@ -78,11 +77,23 @@ La primera es Carolina, diseñadora, que le encantan los productos originales y 
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%202.png">
 </p>
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%203.png">
+</p>
 
-Como complemento a esto realizamos un [Customer Journey Map](), para poder ver los procesos y expectativas de compra de nuestros usuarios, plasmando sus sentimientos y sensaciones por las cuales pasan al momento de realizar un pedido y pago en la joyería. Analizamos cómo podríamos mejorar sus puntos de dolor de mayor significancia, y viendo las oportunidades de mejora en cada una de ellas.
+
+Como complemento a esto realizamos un **Customer Journey Map**, para poder ver los procesos y expectativas de compra de nuestros usuarios, plasmando sus sentimientos y sensaciones por las cuales pasan al momento de realizar un pedido y pago en la joyería. Analizamos cómo podríamos mejorar sus puntos de dolor de mayor significancia, y viendo las oportunidades de mejora en cada una de ellas.
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map%20Carolina.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Copy%20of%20Customer%20Journey%20Map%20Pablo%20(1).png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/%20Customer%20Journey%20Map%20Marcela%20(1).png">
 </p>
 
 
